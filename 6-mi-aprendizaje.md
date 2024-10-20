@@ -1,3 +1,1 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+Antes de realizar la práctica, ya sabía crear contenedores y mapear puertos en Docker, pero no conocía cómo funcionan las variables de entorno ni cómo ejecutar comandos dentro de los contenedores, tampoco de cómo trabajar con redes. Ahora tengo una mejor comprensión de estos conceptos y me siento capaz de trabajar con variables de entorno, lo que permite personalizar la configuración de los contenedores (que en algunos casos es necesario). Además, puedo ejecutar comandos dentro de los contenedores y gestionar redes de docker, necesario para la comunicación entre diferentes contenedores.
