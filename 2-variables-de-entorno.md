@@ -1,6 +1,6 @@
 # Variables de Entorno
 ### ¿Qué son las variables de entorno
-# COMPLETAR
+Son variables con el formato clave-valor para almacenar información de configuración como contraseñas o usuarios. Son accesibles de forma global por los procesos de un SO y se utilizan al crear contenedores para su configuración.
 
 ### Para crear un contenedor con variables de entorno?
 
